@@ -1,0 +1,13 @@
+.tabCon {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.tabby {
+    height: 15rem;
+    width: 15rem;
+    border: 3px solid wheat;
+    font-size: 2.5em;
+    border-radius: 30px;
+}
